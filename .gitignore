@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+coverage/
+docs-static/
+notes.txt
+
+.DS_Store
+test_database_*
