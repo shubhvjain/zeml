@@ -1,0 +1,41 @@
+{
+  "name": "zeml",
+  "version": "0.0.1",
+  "description": "ZEttel Markup Language. Allows you to create block notes and relate them with each other",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests",
+    "lib": "src",
+    "doc": "docs"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "docs"
+  ],
+  "scripts": {
+    "test": "jest",
+    "test-cover": "jest --coverage",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhvjain/zeml.git"
+  },
+  "keywords": [
+    "markup",
+    "zettelkasten",
+    "block",
+    "notes"
+  ],
+  "author": "svj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubhvjain/zeml/issues"
+  },
+  "homepage": "https://github.com/shubhvjain/zeml#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.4"
+  }
+}
