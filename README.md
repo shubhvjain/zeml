@@ -1,6 +1,6 @@
 # zeml
 
-[![NPM Version](https://img.shields.io/npm/v/zeml.svg)](https://www.npmjs.com/package/your-package)
+[![NPM Version](https://img.shields.io/npm/v/zeml.svg)](https://www.npmjs.com/package/zeml)
 [![License](https://img.shields.io/npm/l/zeml.svg)](LICENSE)
 
 
